@@ -2,10 +2,10 @@
 ## Валидация пароля в JavaScript - позлить шефа. Код с reddit
 ### https://itgid.info
 
-Валидируем пароль по коду с Reddit. Злим шефа
+Async, await это просто
 ### Посмотреть видеоурок на Youtube
-https://youtu.be/Ie7VMD1tt5Q
-[![Посмотреть видео](https://github.com/itgidinfo/reddit_code_validate_pass/blob/master/images/cover.png?raw=true)](https://youtu.be/Ie7VMD1tt5Q)
+https://youtu.be/xXBTwb7cc88
+[![Посмотреть видео](https://github.com/itgidinfo/async_await_simple/blob/master/images/cover.png?raw=true)](https://youtu.be/xXBTwb7cc88)
 
 ### Курсы ItGid.info
 
