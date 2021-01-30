@@ -1,5 +1,5 @@
 # ITGID.info
-## Валидация пароля в JavaScript - позлить шефа. Код с reddit
+## Async, await это просто - без циклов и таймеров! Реальный пример
 ### https://itgid.info
 
 Async, await это просто
